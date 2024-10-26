@@ -1,3 +1,9 @@
+## [1.0.1-dev.3](https://github.com/CShatto99/next-ui-template/compare/v1.0.1-dev.2...v1.0.1-dev.3) (2024-10-26)
+
+### Bug Fixes
+
+- **dev:** add storybook-dark-mode to storybook config ([32a9b20](https://github.com/CShatto99/next-ui-template/commit/32a9b208d298c800eda394945e56f6d047b13f74))
+
 ## [1.0.1-dev.2](https://github.com/CShatto99/next-ui-template/compare/v1.0.1-dev.1...v1.0.1-dev.2) (2024-09-19)
 
 ### Bug Fixes
