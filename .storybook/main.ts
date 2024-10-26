@@ -7,7 +7,7 @@ const config: StorybookConfig = {
     '@storybook/addon-essentials',
     '@storybook/addon-interactions',
     '@storybook/addon-styling-webpack',
-    'storybook-addon-next-router',
+    'storybook-dark-mode',
   ],
   framework: {
     name: '@storybook/nextjs',
